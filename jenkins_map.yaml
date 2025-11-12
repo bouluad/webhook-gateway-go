@@ -1,0 +1,3 @@
+orga1/infra: "https://jenkins.infra.company.com/github-webhook/"
+orga2/app: "https://jenkins.app.company.com/github-webhook/"
+orga3/ci-pipeline: "https://jenkins.sg.company.com/github-webhook/"
